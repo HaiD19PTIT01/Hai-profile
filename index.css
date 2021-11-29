@@ -1,0 +1,72 @@
+
+#ho{
+    color: black;
+
+font-family:'Arial';
+font-size: 180%;
+margin-left: 900px;
+margin-top: 300px;
+}
+#dem{
+    color: black;
+
+font-family:'Arial';
+font-size: 180%;
+margin-left: 1300px;
+margin-top: -105px;
+}
+#ten{
+    color: rgb(128, 82, 21);
+
+font-family:'Arial';
+font-size: 180%;
+margin-left: 1470px;
+margin-top: -105px;
+}
+.thongtin{
+
+font-size: 120%;
+margin-left: 950px;
+margin-top: 160px;
+}
+.top{
+    color: rgb(0, 0, 0));
+    font-family:'Arial';
+    font-size:43px;
+    margin-bottom: 20px;
+    
+}
+.bot{
+    font-family: Arial;
+    font-size: 20px;
+    margin-left: 0px;
+}
+.Lienhe{
+
+font-size: 120%;
+margin-left: 1400px;
+margin-top: -220px;
+}
+.top1{
+    
+    font-family:'Arial';
+    font-size:43px;
+    margin-bottom: 20px;
+    
+}
+.bot1{
+    font-family: Arial;
+    font-size: 20px;
+    margin-left: 0px;
+}
+
+
+
+
+
+html
+{
+
+background: url('https://scontent.fhan4-3.fna.fbcdn.net/v/t1.6435-9/150057195_1011880895886873_1900610860937851722_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=MnJkDacZSmgAX8HpOmp&_nc_ht=scontent.fhan4-3.fna&oh=23ecdf3d9adeb93ae422fcf7c6c3c4b4&oe=61C6ABD4') -125px -430px;
+background-repeat: no-repeat;
+}
